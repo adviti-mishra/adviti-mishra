@@ -13,7 +13,7 @@ I'm a junior majoring in Computer Science with a minor in Business at the Univer
   (The best experience of my life yet)
 * 🚀 I'm on ***leadership for V1 Michigan*** - a community of student builders passionate about technology.\
   (This is where I found my people)
-* 💁🏻‍♀️ I'm involved with amazing communities of women in STEM like ***Rewriting The Code (RTC), Society of Women Engineers (SWE), and Girls in Electrical Engineering and Computer Science (GEECS).***\
+* 💁🏻‍♀️ I'm involved with amazing communities like ***Rewriting The Code (RTC), Society of Women Engineers (SWE), and Girls in Electrical Engineering and Computer Science (GEECS).***\
   (This is where I source a lot of my inspiration from)
 * 📈 I have worked on full-stack development and exploratory data analysis. I'm looking to explore different avenues in SWE.\
   (Would love to seek guidance on growing as a software engineer)
