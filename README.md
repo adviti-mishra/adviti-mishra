@@ -5,8 +5,6 @@ I'm a junior majoring in Computer Science with a minor in Business at the Univer
 ## About 
 
 ### Technology
-* 💻 I'm an ***incoming software engineering intern at MongoDB*** for the Summer of 2024.\
-  (If you're in New York, let's meet!)
 * 👩🏻‍🏫 This is my 4th semester working as an ***Instructional Aide for EECS 280 - Programming and Data Structures***.\
   (If you couldn't tell, I love teaching!)
 * 👾 I was the ***Co-Director of MHacks 16***- the in-person reboot of the University of Michigan Ann Arbor's hackathon after years.\
