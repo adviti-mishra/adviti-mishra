@@ -5,7 +5,7 @@ I'm a junior majoring in Computer Science with a minor in Business at the Univer
 ## About 
 
 ### Technology
-* 👩🏻‍🏫 This is my 4th semester working as an ***Instructional Aide for EECS 280 - Programming and Data Structures***.\
+* 👩🏻‍🏫 I spent 2 years working as an ***Instructional Aide for EECS 280 - Programming and Data Structures***.\
   (If you couldn't tell, I love teaching!)
 * 👾 I was the ***Co-Director of MHacks 16***- the in-person reboot of the University of Michigan Ann Arbor's hackathon after years.\
   (The best experience of my life yet)
