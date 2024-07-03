@@ -18,7 +18,7 @@ I'm a junior majoring in Computer Science with a minor in Business at the Univer
 
 ### Funsies
 * 📝 I love ***writing***.\
-  (I used to write op-eds, essays, and poetry for the Times of India's children's edition. I'm currently working on a book!)
+  (I used to write op-eds, essays, and poetry for the Times of India's children's edition.)
 * 📚 I love ***reading***.\
   (I once read one book/week for a year!)
 * 🎸 I play the ***acoustic guitar*** and will be learning the ***electric***.\
